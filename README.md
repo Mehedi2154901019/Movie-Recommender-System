@@ -1,6 +1,6 @@
 # Movie-Recommender-System
 
-#User TMDB dataset with 5000 movies and by various ML techniques the app recommends 50 movies after input any movie in the search bar
+#TMDB dataset is used with 5000 movies and by various ML techniques the app recommends 50 movies after input any movie in the search bar
 
 #numpy,panda,ast,lambda function for awesome data preprocessing 
 
